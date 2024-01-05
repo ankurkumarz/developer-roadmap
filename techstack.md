@@ -44,7 +44,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ankurkumarz/developer-roadmap](https://github.com/ankurkumarz/developer-roadmap)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|29<br/>Tools used|12/14/23 <br/>Report generated|
+|30<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -189,9 +189,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (14)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (15)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (14)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (15)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -205,6 +205,7 @@ Full tech stack [here](/techstack.md)
 |[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v8.3.0|12/26/21|Kamran Ahmed |MIT|N/A|
 |[gh-pages](https://www.npmjs.com/gh-pages)|v3.2.3|09/22/21|Kamran Ahmed |MIT|N/A|
 |[glob](https://www.npmjs.com/glob)|v7.1.7|10/28/21|Kamran Ahmed |ISC|N/A|
+|[husky](https://www.npmjs.com/husky)|v7.0.4|10/28/21|Kamran Ahmed |MIT|N/A|
 |[pretty-quick](https://www.npmjs.com/pretty-quick)|v3.1.3|12/26/21|Kamran Ahmed |MIT|N/A|
 |[react-dom](https://www.npmjs.com/react-dom)|v17.0.2|01/05/22|Kamran Ahmed |MIT|N/A|
 |[serve](https://www.npmjs.com/serve)|v13.0.2|11/19/21|Kamran Ahmed |MIT|N/A|
